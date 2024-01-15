@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sean.kelley\\Downloads\\Sprint0\\Sprint0.csproj": {}
+    "C:\\Users\\sean.kelley\\Source\\Repos\\CSE-3902\\Sprint0\\Sprint0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sean.kelley\\Downloads\\Sprint0\\Sprint0.csproj": {
+    "C:\\Users\\sean.kelley\\Source\\Repos\\CSE-3902\\Sprint0\\Sprint0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sean.kelley\\Downloads\\Sprint0\\Sprint0.csproj",
+        "projectUniqueName": "C:\\Users\\sean.kelley\\Source\\Repos\\CSE-3902\\Sprint0\\Sprint0.csproj",
         "projectName": "Sprint0",
-        "projectPath": "C:\\Users\\sean.kelley\\Downloads\\Sprint0\\Sprint0.csproj",
+        "projectPath": "C:\\Users\\sean.kelley\\Source\\Repos\\CSE-3902\\Sprint0\\Sprint0.csproj",
         "packagesPath": "C:\\Users\\sean.kelley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sean.kelley\\Downloads\\Sprint0\\obj\\",
+        "outputPath": "C:\\Users\\sean.kelley\\Source\\Repos\\CSE-3902\\Sprint0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sean.kelley\\AppData\\Roaming\\NuGet\\NuGet.Config",

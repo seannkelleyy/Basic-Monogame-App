@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vm2jZ0SV6n4ItmcityLXt0+2H4oMeLlLpxHrutK/K1LasYlSscNAAjRNPZtS1Od9voxdrXinkEFSX1Jwm8I1KA==",
+  "dgSpecHash": "YTUEkVxEcWKym26uxUpCPTpG5j+22g0WmZ6+7zBYi8BcMbZX3p87Il2R66bCXyk62qxGPIpd6NetRvFaAz17lQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sean.kelley\\Downloads\\Sprint0\\Sprint0.csproj",
+  "projectFilePath": "C:\\Users\\sean.kelley\\Source\\Repos\\CSE-3902\\Sprint0\\Sprint0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sean.kelley\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\sean.kelley\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
